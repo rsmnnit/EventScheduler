@@ -1,0 +1,8 @@
+Jayant Kumar Yadav
+20144045
+
+All the given types f LAN wiring is done in lab.
+
+1. Straight
+2. Crossover
+3. Rollover
